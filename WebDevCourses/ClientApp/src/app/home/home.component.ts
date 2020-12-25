@@ -48,6 +48,7 @@ export class HomeComponent {
         this.NotThere();
         this.b = false;
         this.a = false;
+        this.c = true;
         break;
     }
 
